@@ -1,6 +1,6 @@
 ### 1. 下载SDK
 
-下载SDK地址如下：[无间盾-Adroid-sdk-1.0.0.zip](http://uiw.cn-gd.ufileos.com/无间盾-Android-sdk-1.0.0.zip)
+下载SDK地址如下：[无间盾-Adroid-sdk-1.0.0.zip](https://uiw.cn-gd.ufileos.com/无间盾-Android-sdk-1.0.0.zip)
 
 ### 2. 接入SDK
 
