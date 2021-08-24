@@ -1,4 +1,4 @@
-#IOS SDK 接入文档
+# IOS SDK 接入文档
 
 ### 1. 下载SDK
 
