@@ -1,6 +1,6 @@
 # 微信小程序接入文档
 
-**1. app.json引入插件**
+### 1. app.json引入插件 ###
 
 ```
 {
@@ -13,7 +13,7 @@
 }
 ```
 
-**2. index.json**
+### 2. index.json ###
 
 ```
 {
@@ -22,7 +22,7 @@
   }
 }
 ```
-**3. index.wxml**
+### 3. index.wxml ###
 
 ```
 <button bind:tap="showCode">验证码</button>
@@ -34,7 +34,7 @@
 />
 ```
 
-**4. index.js**
+### 4. index.js ###
 
 ```
 Page({
