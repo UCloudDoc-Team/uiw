@@ -8,7 +8,7 @@
 * 众安内网地址：http://za-token-verify.pub.za-tech.net
 
 下列内容中API均为上述地址加上对应URL
-无间盾服务不提供测试环境, 开发，测试，预发等不同环境可通过SaaS控制台（https://infernal-wall.zhongan.io ）创建不同应用来区分
+无间盾服务不提供测试环境, 开发，测试，预发等不同环境可通过控制台创建不同应用来区分
 
 ### 2.JAVA SDK接入（目前仅适用于众安集团）
 
