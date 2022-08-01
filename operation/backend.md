@@ -103,7 +103,7 @@ import com.zhongan.sdk.infernalwall.ServerVerify;
     }
 ```
 
-### 3.Restfull API 接入
+### 3.Restful API 接入
 
 **GET /api/v1/server_verify**
 
